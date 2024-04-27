@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3qsv2awiwjnin2mr?svg=true)](https://ci.appveyor.com/project/Sashkasam/clear-function-dz)
 # Чистые функции
 
 ## Легенда
